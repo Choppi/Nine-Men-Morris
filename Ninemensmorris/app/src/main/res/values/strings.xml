@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ninemensmorris</string>
+    <string name="reset_game">Reset</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="insert">click to insert pawn</string>
+    <string name="select">select a pawn to move</string>
+    <string name="move">select a place to move your pawn</string>
+    <string name="remove">remove a %s pawn to remove</string>
+    <string name="winner">you won</string>
+</resources>
